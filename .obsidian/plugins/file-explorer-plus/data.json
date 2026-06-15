@@ -53,6 +53,13 @@
         "type": "FILES",
         "pattern": "MBA em Data Science, Inteligência Artificial e Analytics/attachments/Aula Inaugural DSIA.pdf",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "IA/attachments/750+ PROMPTS by DiegoDavila.com.pdf",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
