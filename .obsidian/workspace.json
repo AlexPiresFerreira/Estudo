@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Livros & Filme/3.4. Pessoa.md",
+                "file": "3. Livros & Filme/3.3. Pessoa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.4. Pessoa"
+              "title": "3.3. Pessoa"
             }
           }
         ]
@@ -184,9 +184,9 @@
   },
   "active": "b848a1215792fa32",
   "lastOpenFiles": [
-    "3. Livros & Filme/3.3. Filmes.md",
-    "3. Livros & Filme/3.4. Pessoa.md",
     "3. Livros & Filme/3.2. Livros Security.md",
+    "3. Livros & Filme/3.3. Pessoa.md",
+    "3. Livros & Filme/3.2. Filmes.md",
     "3. Livros & Filme/3.1. Livro para comprar.md",
     "3. Livros & Filme/attachments/Testes de Invasão Uma introdução prática ao hacking.pdf",
     "3. Livros & Filme/attachments/pentest-em-aplicacoes-web-avalie-a-seguranca-contra-ataques-web-com-testes-de-invasao-no-kali-linux.pdf",
