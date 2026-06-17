@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Livros & Filme/3.2. Filmes.md",
+                "file": "2. Geral/2.2. Anki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2. Filmes"
+              "title": "2.2. Anki"
             }
           }
         ]
@@ -184,9 +184,10 @@
   },
   "active": "b848a1215792fa32",
   "lastOpenFiles": [
+    "2. Geral/2.1. Ferramenta.md",
+    "3. Livros & Filme/3.2. Filmes.md",
     "2. Geral/2.0. Pirâmide do Aprendizado.md",
     "2. Geral/2.2. Anki.md",
-    "2. Geral/2.1. Ferramenta.md",
     "IA/Prompts idioma.md",
     "IA/attachments/prompts_para_turbinar_o_espanhol_ia_para_espanholpdf.pdf",
     "4. Curso/4.1. Leitura/Geral.md",
@@ -209,7 +210,6 @@
     "IA/Autodesenvolvimento com IA.md",
     "3. Livros & Filme/3.3. Pessoa.md",
     "3. Livros & Filme/3.2. Livros Security.md",
-    "3. Livros & Filme/3.2. Filmes.md",
     "3. Livros & Filme/3.1. Livro para comprar.md",
     "3. Livros & Filme/attachments/Testes de Invasão Uma introdução prática ao hacking.pdf",
     "3. Livros & Filme/attachments/pentest-em-aplicacoes-web-avalie-a-seguranca-contra-ataques-web-com-testes-de-invasao-no-kali-linux.pdf",
