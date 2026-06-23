@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Geral/2.0. Pirâmide do Aprendizado.md",
+                "file": "3. Livros & Filme/3.2. Filmes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.0. Pirâmide do Aprendizado"
+              "title": "3.2. Filmes"
             }
           }
         ]
@@ -184,10 +184,13 @@
   },
   "active": "b848a1215792fa32",
   "lastOpenFiles": [
+    "3. Livros & Filme/3.1. Livro para comprar.md",
+    "3. Livros & Filme/3.2. Filmes.md",
+    "3. Livros & Filme/3.3. Pessoa.md",
+    "2. Geral/2.0. Pirâmide do Aprendizado.md",
+    "3. Livros & Filme/3.4. Livro",
     "2. Geral/2.2. Anki.md",
     "2. Geral/2.1. Ferramenta.md",
-    "3. Livros & Filme/3.2. Filmes.md",
-    "2. Geral/2.0. Pirâmide do Aprendizado.md",
     "IA/Prompts idioma.md",
     "IA/attachments/prompts_para_turbinar_o_espanhol_ia_para_espanholpdf.pdf",
     "4. Curso/4.1. Leitura/Geral.md",
@@ -208,15 +211,12 @@
     "IA/Prompts.md",
     "IA/ChatGPT.md",
     "IA/Autodesenvolvimento com IA.md",
-    "3. Livros & Filme/3.3. Pessoa.md",
     "3. Livros & Filme/3.2. Livros Security.md",
-    "3. Livros & Filme/3.1. Livro para comprar.md",
     "3. Livros & Filme/attachments/Testes de Invasão Uma introdução prática ao hacking.pdf",
     "3. Livros & Filme/attachments/pentest-em-aplicacoes-web-avalie-a-seguranca-contra-ataques-web-com-testes-de-invasao-no-kali-linux.pdf",
     "3. Livros & Filme/attachments/Pentest em aplicações web.pdf",
     "3. Livros & Filme/attachments/Pentest em Redes Sem Fio..pdf",
     "3. Livros & Filme/attachments/Introdução ao PENTEST.pdf",
-    "3. Livros & Filme/attachments/sc_customer_h.pdf",
     "6. Programação/Python/2. Projetos/2.12. Acessa a página de repositórios de um usuário no GitHub.md",
     "6. Programação/Python/2. Projetos/2.12..md",
     "6. Programação/Python/2. Projetos/Sem título.md",
@@ -229,7 +229,6 @@
     "6. Programação/Python/1. Bibliotecas/1.5. PyPDF2.md",
     "6. Programação/Python/1. Bibliotecas/1.4. pandas.md",
     "6. Programação/Python/18. Tratamento de arquivo.md",
-    "6. Programação/Python/18..md",
     "Sem título.canvas",
     "Sem título 1.canvas"
   ]
