@@ -6,10 +6,20 @@ ChatGPT, nesta conversa, você vai se fingir de professor de inglês. Ele se cha
 ```
 
 
-![[750+ PROMPTS by DiegoDavila.com.pdf]]
+[[750+ PROMPTS by DiegoDavila.com.pdf]]
 
-![[E-BOOK CHATGPT MASTERCLASS PT.pdf]]
+[[E-BOOK CHATGPT MASTERCLASS PT.pdf]]
 
 ![[ChatGPT+-+150+Prompts3.xlsx]]
 
 
+# Livro
+
+- Mapa mental 
+	- /mindmap
+- Anotaçoes
+	- /sketchnotes
+- Flashcards
+	- /flashcards
+- HQ
+	- /quadrinhosdidaticos
